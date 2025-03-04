@@ -1,0 +1,24 @@
+
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
+public class date {
+	public static void main(String[] args) {
+		String ngay1 = "10:03 10/01/2016";
+		String ngay2 = "10:04 10/01/2016";
+		try {
+			SimpleDateFormat f = new SimpleDateFormat("hh:mm dd/MM/yyyy");
+			Date d1 = f.parse(ngay1);
+			Date d2 = f.parse(ngay2);
+			long hieu = d2.getTime() - d1.getTime();
+			long sogiay = hieu/1000;
+			long sogio = sogiay/3600;
+			long sophut = (sogiay - sogio*3600) / 60;
+			sogiay -= sogio * 3600 + sophut * 60;
+			System.out.println("So giay: " + sogiay + " So phut: " + sophut + " So gio: " + sogio);
+			
+		} catch (Exception e) {
+			// TODO: handle exception
+		}
+	}
+}

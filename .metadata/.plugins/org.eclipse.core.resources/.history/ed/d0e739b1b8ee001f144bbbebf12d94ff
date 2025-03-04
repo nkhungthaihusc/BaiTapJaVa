@@ -1,0 +1,17 @@
+
+public class Test3 {
+	public static void main(String[] args) {
+		String[] tt = {"24T102;Le van teo;K48;CNTT;23" , "24T103;Le van Ty;K45;CNTT;20", "24T103;Le van Nam;K48;Toan;17 " , "24T103;Le van Trung;K48;Ly;25"};
+		for (String string : tt) {
+			String[] ds = string.split("[ ]");
+			String c = "";
+			for (int i = 0 ; i < ds.length ; i++) {
+				c += ds[i].substring(0, 1).toUpperCase() + ds[i].substring(1).toLowerCase();
+				c += " ";
+			}
+			System.out.println(c);
+		}
+		//Cau1: Xuat ra ds sinh vien
+		//Cau2: Nhap vao masv , in ra diem c
+	}
+}

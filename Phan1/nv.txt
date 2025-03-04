@@ -1,0 +1,3 @@
+nv1;Tran Tien Thu;CNTT;2.34
+nv2;Tran Tien Dat;CNTT;3.34
+nv3;Tran Tien Kim;CNTT;4.34

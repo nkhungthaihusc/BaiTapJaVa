@@ -1,0 +1,33 @@
+import java.util.Scanner;
+
+public class Test2 {
+	public static void main(String[] args) {
+		String[] dsht = {"Le Lai" , "le LOI" , "pHAM MINH tRUNG", "LE van teo" , "Nguyen TIEN Tung"};
+		//Cau1 :Hien thi danh sach ho ten
+		for (String x : dsht) {
+			System.out.println(x + " ");
+		}
+		//Cau2 :Nhap vao mot ten va dem xem co bao nhieu ho ten nay
+		Scanner oj = new Scanner(System.in);
+		System.out.println("Nhap ho ten can dem: ");
+		String name = oj.nextLine();
+		int cnt = 0;
+		for (String string : dsht) {
+			if(string.toLowerCase().trim().equals(name.toLowerCase().trim())) cnt++;
+		}
+		System.out.println(cnt);
+		//Cau3 :Nhap vao key(ho , ten , chulot) => in ra ho ten giong nhu key
+		System.out.println("Nhap key muon kiem tra vao: ");
+		String key = oj.nextLine();
+		for (String string : dsht) {
+			if(string.toLowerCase().trim().contains(key.toLowerCase().trim())) {
+				String[] ds = string.split("[ ]");
+				String c = "";
+				for (int i = 0 ; i < ds.length ; i++) {
+					c += ds[i].substring(0, 1).toUpperCase() + ds[i].substring(1).toLowerCase();
+				}
+				System.out.println(c);
+			}
+		}
+	}
+}

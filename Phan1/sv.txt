@@ -1,0 +1,5 @@
+Sv1;Tran Trung Hung;02/03/1986;Nam;9.599807002488143;dau;gioi
+Sv2;Le Trung Ton;08/08/1961;Nu;9.611788975277593;dau;gioi
+Sv3;Le Hoang Nga;09/08/1997;Nu;6.527308876924675;dau;kha
+Sv4;Le Thanh Tam;09/03/1972;Nam;3.550937983501803;rot;yeu
+Sv5;Le Hoang Nga;14/01/1964;Nam;4.345951674069989;rot;yeu

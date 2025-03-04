@@ -1,0 +1,14 @@
+
+public class Test1 {
+	public static void main(String[] args) {
+		try {
+			Thuvien tv = new Thuvien();
+			System.out.println(tv.chia(2, 3));
+		} catch (Exception e) {
+			// TODO: handle exception
+			System.out.println("Loi Ct:" + e.getMessage());
+			e.printStackTrace();
+		}
+		System.out.println("Ket thuc ct");
+	}
+}
