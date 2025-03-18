@@ -1,0 +1,11 @@
+ly01|Tran Thi Lung|8.5|7.5|9.5|10.0|8.875|Dau
+ly1|Nguyen Thi Hong|6.5|7.0|8.0|9.0|7.625|Dau
+ly2|Tran Van Thanh|5.0|5.5|6.5|7.5|6.125|Dau
+ly3|Le Thi Phuong|7.5|8.0|8.5|9.5|8.375|Dau
+ly4|Pham Van An|4.0|4.5|5.5|6.0|5.0|Dau
+ly5|Hoang Huu Nam|9.0|9.5|9.5|10.0|9.5|Dau
+ly6|Nguyen Van Bao|6.5|7.0|7.5|8.5|7.375|Dau
+ly7|Tran Thi Binh|5.0|5.5|6.0|6.5|5.75|Dau
+ly8|Le Van Nam|7.5|8.0|8.5|9.0|8.25|Dau
+ly9|Pham Thi Hong|4.0|4.5|5.0|5.5|4.75|Rot
+ly10|Hoang Huu Tuan|9.5|9.5|9.5|10.0|9.625|Dau

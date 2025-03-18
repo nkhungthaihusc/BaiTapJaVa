@@ -1,0 +1,12 @@
+toan1|Pham Van Thong|8.5|7.5|9.5|8.5|Dau
+toan2|Le Van Thong|1.5|2.5|3.5|2.5|Rot
+toan1|Nguyen Huu Phuoc|6.0|7.5|8.0|7.166666666666667|Dau
+toan2|Tran Van Thanh|5.5|6.5|7.5|6.5|Dau
+toan3|Le Thi Mai|8.5|9.0|9.5|9.0|Dau
+toan4|Pham Van Hoang|3.5|4.0|5.0|4.166666666666667|Rot
+toan5|Hoang Huu Nam|7.0|8.5|9.0|8.166666666666666|Dau
+toan6|Nguyen Van Hoa|6.5|7.0|8.0|7.166666666666667|Dau
+toan7|Tran Thi Lan|5.0|5.5|6.5|5.666666666666667|Dau
+toan8|Le Van Tuan|7.5|8.0|8.5|8.0|Dau
+toan9|Pham Van Binh|4.0|4.5|5.5|4.666666666666667|Rot
+toan10|Hoang Huu An|9.0|9.5|9.5|9.333333333333334|Dau
