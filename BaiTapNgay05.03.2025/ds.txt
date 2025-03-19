@@ -1,0 +1,336 @@
+Sv1
+Nguyen Hoang Ha
+tin
+6.0
+Sv2
+Le Hung Nam
+toan
+3.0
+Sv3
+Nguyen Kim Hung Thai
+tin
+4.0
+Sv4
+Phan Van Khai
+tin
+5.0
+Sv5
+Ho Huu Bang
+tin 
+6.0
+Sv1
+Nguyen Hoang Ha
+tin
+6.0
+Sv2
+Le Hung Nam
+toan
+3.0
+Sv3
+Nguyen Kim Hung Thai
+tin
+4.0
+Sv4
+Phan Van Khai
+tin
+5.0
+Sv5
+Ho Huu Bang
+tin 
+6.0
+Sv1
+Nguyen Hoang Ha
+tin
+6.0
+Sv2
+Le Hung Nam
+toan
+3.0
+Sv3
+Nguyen Kim Hung Thai
+tin
+4.0
+Sv4
+Phan Van Khai
+tin
+5.0
+Sv5
+Ho Huu Bang
+tin 
+6.0
+Sv1
+Nguyen Hoang Ha
+tin
+6.0
+Sv2
+Le Hung Nam
+toan
+3.0
+Sv3
+Nguyen Kim Hung Thai
+tin
+4.0
+Sv4
+Phan Van Khai
+tin
+5.0
+Sv5
+Ho Huu Bang
+tin 
+6.0
+Sv1
+Nguyen Hoang Ha
+tin
+6.0
+Sv2
+Le Hung Nam
+toan
+3.0
+Sv3
+Nguyen Kim Hung Thai
+tin
+4.0
+Sv4
+Phan Van Khai
+tin
+5.0
+Sv5
+Ho Huu Bang
+tin 
+6.0
+Sv1
+Nguyen Hoang Ha
+tin
+6.0
+Sv2
+Le Hung Nam
+toan
+3.0
+Sv3
+Nguyen Kim Hung Thai
+tin
+4.0
+Sv4
+Phan Van Khai
+tin
+5.0
+Sv5
+Ho Huu Bang
+tin 
+6.0
+Sv1
+Nguyen Hoang Ha
+tin
+6.0
+Sv2
+Le Hung Nam
+toan
+3.0
+Sv3
+Nguyen Kim Hung Thai
+tin
+4.0
+Sv4
+Phan Van Khai
+tin
+5.0
+Sv5
+Ho Huu Bang
+tin 
+6.0
+Sv1
+Nguyen Hoang Ha
+tin
+6.0
+Sv2
+Le Hung Nam
+toan
+3.0
+Sv3
+Nguyen Kim Hung Thai
+tin
+4.0
+Sv4
+Phan Van Khai
+tin
+5.0
+Sv5
+Ho Huu Bang
+tin 
+6.0
+Sv12
+ dsadsad
+toan
+23213.0
+Sv12232
+ dsadsad
+toan
+23213.0
+Sv1
+Nguyen Hoang Ha
+tin
+6.0
+Sv2
+Le Hung Nam
+toan
+3.0
+Sv3
+Nguyen Kim Hung Thai
+tin
+4.0
+Sv4
+Phan Van Khai
+tin
+5.0
+Sv5
+Ho Huu Bang
+tin 
+6.0
+Sv1
+Nguyen Hoang Ha
+tin
+6.0
+Sv2
+Le Hung Nam
+toan
+3.0
+Sv3
+Nguyen Kim Hung Thai
+tin
+4.0
+Sv4
+Phan Van Khai
+tin
+5.0
+Sv5
+Ho Huu Bang
+tin 
+6.0
+Sv1
+Nguyen Hoang Ha
+tin
+6.0
+Sv2
+Le Hung Nam
+toan
+3.0
+Sv3
+Nguyen Kim Hung Thai
+tin
+4.0
+Sv4
+Phan Van Khai
+tin
+5.0
+Sv5
+Ho Huu Bang
+tin 
+6.0
+Sv1
+Nguyen Hoang Ha
+tin
+6.0
+Sv2
+Le Hung Nam
+toan
+3.0
+Sv3
+Nguyen Kim Hung Thai
+tin
+4.0
+Sv4
+Phan Van Khai
+tin
+5.0
+Sv5
+Ho Huu Bang
+tin 
+6.0
+Sv1
+Nguyen Hoang Ha
+tin
+6.0
+Sv2
+Le Hung Nam
+toan
+3.0
+Sv3
+Nguyen Kim Hung Thai
+tin
+4.0
+Sv4
+Phan Van Khai
+tin
+5.0
+Sv5
+Ho Huu Bang
+tin 
+6.0
+Sv1
+Nguyen Hoang Ha
+tin
+6.0
+Sv2
+Le Hung Nam
+toan
+3.0
+Sv3
+Nguyen Kim Hung Thai
+tin
+4.0
+Sv4
+Phan Van Khai
+tin
+5.0
+Sv5
+Ho Huu Bang
+tin 
+6.0
+Sv1
+Nguyen Hoang Ha
+tin
+6.0
+Sv2
+Le Hung Nam
+toan
+3.0
+Sv3
+Nguyen Kim Hung Thai
+tin
+4.0
+Sv4
+Phan Van Khai
+tin
+5.0
+Sv5
+Ho Huu Bang
+tin 
+6.0
+Sv1
+Nguyen Hoang Ha
+tin
+6.0
+Sv2
+Le Hung Nam
+toan
+3.0
+Sv3
+Nguyen Kim Hung Thai
+tin
+4.0
+Sv4
+Phan Van Khai
+tin
+5.0
+Sv5
+Ho Huu Bang
+tin 
+6.0
+Sv12
+ dsadsad
+toan
+23213.0
+Sv12232
+ dsadsad
+toan
+23213.0
